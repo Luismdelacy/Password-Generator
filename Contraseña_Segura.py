@@ -164,3 +164,5 @@ while Continuar:
         print("Valores númericos validos 0 1 2 99")
 
     Continuar = bool(input("¿Continuar? Pulsa cualquier tecla para continuar o por el contrario pulsa Enter para finalizar: "))
+
+    # Luismdelacy
